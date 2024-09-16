@@ -35,4 +35,4 @@ This project is a simplified clone of the Amazon homepage, built using HTML and 
 
 ## Output
 
-[![Watch the video](amazon_clone.mp4)]
+[![amazon_clone](amazon_clone.mp4)]
