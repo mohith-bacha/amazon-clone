@@ -33,6 +33,3 @@ This project is a simplified clone of the Amazon homepage, built using HTML and 
 - Implementing real data-fetching from an API to display products dynamically.
 - Enhancing responsiveness for different screen sizes.
 
-## Output
-
-[![amazon_clone](amazon_clone.mp4)]
